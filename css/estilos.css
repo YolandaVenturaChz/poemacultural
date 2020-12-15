@@ -1,0 +1,19 @@
+body {
+   background-color: rgb(37, 36, 35); 
+}
+#container {
+    background: chocolate;
+    border: solid rgb(195, 195, 207);
+}
+#container h1{
+    color: darkcyan;
+    list-style-type: lower-roman;
+    font-size:  3em;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#container p{
+    font-size: 2em;
+    color: rgb(245, 243, 247);
+}
+
